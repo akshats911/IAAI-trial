@@ -1,2 +1,3 @@
 # IAAI-trial
-hmm
+Webpage for IAAI trial round.
+Made using HTML and CSS (bootstrap too).
